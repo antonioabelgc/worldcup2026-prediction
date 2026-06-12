@@ -2439,7 +2439,7 @@ function openScoringHelpModal() {
           <h4>🌍 Fase de grupos</h4>
           <ul>
             <li>Resultado exacto de partido: <strong>${puntuaciones.grupos.partido.resultadoExacto} pts</strong></li>
-            <li>Ganador/empate correcto: <strong>${puntuaciones.grupos.partido.ganadorEmpateCorrecto} pt</strong></li>
+            <li>Solo ganador/empate correcto (no exacto): <strong>${puntuaciones.grupos.partido.ganadorEmpateCorrecto} pt</strong></li>
             <li>1º exacto de grupo: <strong>${puntuaciones.grupos.posicion.primero} pts</strong></li>
             <li>2º exacto de grupo: <strong>${puntuaciones.grupos.posicion.segundo} pts</strong></li>
             <li>3º exacto de grupo: <strong>${puntuaciones.grupos.posicion.tercero} pt</strong></li>
