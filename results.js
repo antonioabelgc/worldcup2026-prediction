@@ -23,7 +23,9 @@ const RESULTS = {
       "Canada__Bosnia & Herzegovina": { "home": 1, "away": 1 }
     },
     "C": {},
-    "D": {},
+    "D": {
+      "USA__Paraguay": { "home": 4, "away": 1 }
+    },
     "E": {},
     "F": {},
     "G": {},
