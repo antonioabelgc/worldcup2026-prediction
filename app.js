@@ -3769,7 +3769,7 @@ async function copyText(textarea) {
 }
 
 const RESULTS_GITHUB_REPO = {
-  owner: 'jjimenezgarcia',
+  owner: 'antonioabelgc',
   repo: 'worldcup2026-prediction',
   path: 'results.js',
   branch: 'main'
