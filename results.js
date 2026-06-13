@@ -17,10 +17,15 @@ const RESULTS = {
   "groupMatches": {
     "A": {
       "Mexico__South Africa": { "home": 2, "away": 0 },
+      "South Korea__Czech Republic": { "home": 2, "away": 1 }
     },
-    "B": {},
+    "B": {
+      "Canada__Bosnia & Herzegovina": { "home": 1, "away": 1 }
+    },
     "C": {},
-    "D": {},
+    "D": {
+      "USA__Paraguay": { "home": 4, "away": 1 }
+    },
     "E": {},
     "F": {},
     "G": {},
