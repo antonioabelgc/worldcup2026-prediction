@@ -20,7 +20,8 @@ const RESULTS = {
       "South Korea__Czech Republic": { "home": 2, "away": 1 }
     },
     "B": {
-      "Canada__Bosnia & Herzegovina": { "home": 1, "away": 1 }
+      "Canada__Bosnia & Herzegovina": { "home": 1, "away": 1 },
+      "Qatar__Switzerland": { "home": 1, "away": 1 }
     },
     "C": {},
     "D": {
