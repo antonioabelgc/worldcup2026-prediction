@@ -16,7 +16,7 @@ const RESULTS = {
   "thirdPlace": [],
   "groupMatches": {
     "A": {
-      "Mexico__South Africa": { "home": 2, "away": 1 },
+      "Mexico__South Africa": { "home": 2, "away": 0 },
       "South Korea__Czech Republic": { "home": 2, "away": 1 },
       "Czech Republic__South Africa": { "home": 1, "away": 1 }
     },
