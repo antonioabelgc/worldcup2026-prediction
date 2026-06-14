@@ -31,7 +31,9 @@ const RESULTS = {
       "USA__Paraguay": { "home": 4, "away": 1 },
       "Australia__Turkey": { "home": 2, "away": 0 }
     },
-    "E": {},
+    "E": {
+      "Germany__Curaçao": { "home": 7, "away": 1 }
+    },
     "F": {},
     "G": {},
     "H": {},
