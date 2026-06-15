@@ -32,7 +32,8 @@ const RESULTS = {
       "Australia__Turkey": { "home": 2, "away": 0 }
     },
     "E": {
-      "Germany__Curaçao": { "home": 7, "away": 1 }
+      "Germany__Curaçao": { "home": 7, "away": 1 },
+      "Ivory Coast__Ecuador": { "home": 1, "away": 0 }
     },
     "F": {
       "Netherlands__Japan": { "home": 2, "away": 2 },
