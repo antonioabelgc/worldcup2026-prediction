@@ -48,7 +48,8 @@ const RESULTS = {
     "F": {
       "Netherlands__Japan": { "home": 2, "away": 2 },
       "Sweden__Tunisia": { "home": 5, "away": 1 },
-      "Netherlands__Sweden": { "home": 5, "away": 1 }
+      "Netherlands__Sweden": { "home": 5, "away": 1 },
+      "Tunisia__Japan": { "home": 0, "away": 4 }
     },
     "G": {
       "Belgium__Egypt": { "home": 1, "away": 1 },
