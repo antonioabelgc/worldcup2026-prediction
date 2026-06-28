@@ -54,11 +54,35 @@ const RESULTS = {
       "Senegal",
       "Iraq"
     ],
-    "J": [],
-    "K": [],
-    "L": []
+    "J": [
+      "Argentina",
+      "Austria",
+      "Algeria",
+      "Jordan"
+    ],
+    "K": [
+      "Colombia",
+      "Portugal",
+      "DR Congo",
+      "Uzbekistan"
+    ],
+    "L": [
+      "England",
+      "Croatia",
+      "Ghana",
+      "Panama"
+    ]
   },
-  "thirdPlace": [],
+  "thirdPlace": [
+    "DR Congo",
+    "Sweden",
+    "Ecuador",
+    "Ghana",
+    "Bosnia & Herzegovina",
+    "Algeria",
+    "Paraguay",
+    "Senegal"
+  ],
   "groupMatches": {
     "A": {
       "Mexico__South Africa": { "home": 2, "away": 0 },
@@ -136,19 +160,25 @@ const RESULTS = {
       "Argentina__Algeria": { "home": 3, "away": 0 },
       "Austria__Jordan": { "home": 3, "away": 1 },
       "Argentina__Austria": { "home": 2, "away": 0 },
-      "Jordan__Algeria": { "home": 1, "away": 2 }
+      "Jordan__Algeria": { "home": 1, "away": 2 },
+      "Algeria__Austria": { "home": 3, "away": 3 },
+      "Jordan__Argentina": { "home": 1, "away": 3 }
     },
     "K": {
       "Portugal__DR Congo": { "home": 1, "away": 1 },
       "Uzbekistan__Colombia": { "home": 1, "away": 3 },
       "Portugal__Uzbekistan": { "home": 5, "away": 0 },
-      "Colombia__DR Congo": { "home": 1, "away": 0 }
+      "Colombia__DR Congo": { "home": 1, "away": 0 },
+      "Colombia__Portugal": { "home": 0, "away": 0 },
+      "DR Congo__Uzbekistan": { "home": 3, "away": 1 }
     },
     "L": {
       "England__Croatia": { "home": 4, "away": 2 },
       "Ghana__Panama": { "home": 1, "away": 0 },
       "England__Ghana": { "home": 0, "away": 0 },
-      "Panama__Croatia": { "home": 0, "away": 1 }
+      "Panama__Croatia": { "home": 0, "away": 1 },
+      "Panama__England": { "home": 0, "away": 2 },
+      "Croatia__Ghana": { "home": 2, "away": 1 }
     }
   },
   "knockout": {
@@ -163,7 +193,104 @@ const RESULTS = {
     "final": "",
     "thirdPlace": "",
     "matches": {
-      "round32": [],
+      "round32": [
+        {
+          "match": 73,
+          "team1": "South Africa",
+          "team2": "Canada",
+          "winner": null
+        },
+        {
+          "match": 74,
+          "team1": "Germany",
+          "team2": "Paraguay",
+          "winner": null
+        },
+        {
+          "match": 75,
+          "team1": "Netherlands",
+          "team2": "Morocco",
+          "winner": null
+        },
+        {
+          "match": 76,
+          "team1": "Brazil",
+          "team2": "Japan",
+          "winner": null
+        },
+        {
+          "match": 77,
+          "team1": "France",
+          "team2": "Sweden",
+          "winner": null
+        },
+        {
+          "match": 78,
+          "team1": "Ivory Coast",
+          "team2": "Norway",
+          "winner": null
+        },
+        {
+          "match": 79,
+          "team1": "Mexico",
+          "team2": "Ecuador",
+          "winner": null
+        },
+        {
+          "match": 80,
+          "team1": "England",
+          "team2": "DR Congo",
+          "winner": null
+        },
+        {
+          "match": 81,
+          "team1": "USA",
+          "team2": "Bosnia & Herzegovina",
+          "winner": null
+        },
+        {
+          "match": 82,
+          "team1": "Belgium",
+          "team2": "Senegal",
+          "winner": null
+        },
+        {
+          "match": 83,
+          "team1": "Portugal",
+          "team2": "Croatia",
+          "winner": null
+        },
+        {
+          "match": 84,
+          "team1": "Spain",
+          "team2": "Austria",
+          "winner": null
+        },
+        {
+          "match": 85,
+          "team1": "Switzerland",
+          "team2": "Algeria",
+          "winner": null
+        },
+        {
+          "match": 86,
+          "team1": "Argentina",
+          "team2": "Cape Verde",
+          "winner": null
+        },
+        {
+          "match": 87,
+          "team1": "Colombia",
+          "team2": "Ghana",
+          "winner": null
+        },
+        {
+          "match": 88,
+          "team1": "Australia",
+          "team2": "Egypt",
+          "winner": null
+        }
+      ],
       "round16": [],
       "quarterfinals": [],
       "semifinals": [],
