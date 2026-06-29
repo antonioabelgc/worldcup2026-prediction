@@ -182,7 +182,9 @@ const RESULTS = {
     }
   },
   "knockout": {
-    "round32": [],
+    "round32": [
+      "Canada"
+    ],
     "round16": [],
     "quarterfinals": [],
     "semifinals": [],
@@ -198,7 +200,7 @@ const RESULTS = {
           "match": 73,
           "team1": "South Africa",
           "team2": "Canada",
-          "winner": null
+          "winner": "Canada"
         },
         {
           "match": 74,
@@ -291,7 +293,14 @@ const RESULTS = {
           "winner": null
         }
       ],
-      "round16": [],
+      "round16": [
+        {
+          "match": 89,
+          "team1": "Canada",
+          "team2": null,
+          "winner": null
+        }
+      ],
       "quarterfinals": [],
       "semifinals": [],
       "thirdPlace": [],
