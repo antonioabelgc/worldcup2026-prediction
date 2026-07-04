@@ -195,7 +195,10 @@ const RESULTS = {
       "Belgium",
       "Portugal",
       "Spain",
-      "Switzerland"
+      "Switzerland",
+      "Argentina",
+      "Colombia",
+      "Egypt"
     ],
     "round16": [],
     "quarterfinals": [],
@@ -290,19 +293,19 @@ const RESULTS = {
           "match": 86,
           "team1": "Argentina",
           "team2": "Cape Verde",
-          "winner": null
+          "winner": "Argentina"
         },
         {
           "match": 87,
           "team1": "Colombia",
           "team2": "Ghana",
-          "winner": null
+          "winner": "Colombia"
         },
         {
           "match": 88,
           "team1": "Australia",
           "team2": "Egypt",
-          "winner": null
+          "winner": "Egypt"
         }
       ],
       "round16": [
@@ -343,9 +346,15 @@ const RESULTS = {
           "winner": null
         },
         {
+          "match": 95,
+          "team1": "Argentina",
+          "team2": "Egypt",
+          "winner": null
+        },
+        {
           "match": 96,
           "team1": "Switzerland",
-          "team2": null,
+          "team2": "Colombia",
           "winner": null
         }
       ],
