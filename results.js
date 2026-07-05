@@ -200,7 +200,10 @@ const RESULTS = {
       "Colombia",
       "Egypt"
     ],
-    "round16": [],
+    "round16": [
+      "Morocco",
+      "France"
+    ],
     "quarterfinals": [],
     "semifinals": [],
     "champion": "",
@@ -313,13 +316,13 @@ const RESULTS = {
           "match": 89,
           "team1": "Canada",
           "team2": "Morocco",
-          "winner": null
+          "winner": "Morocco"
         },
         {
           "match": 90,
           "team1": "Paraguay",
           "team2": "France",
-          "winner": null
+          "winner": "France"
         },
         {
           "match": 91,
@@ -358,7 +361,14 @@ const RESULTS = {
           "winner": null
         }
       ],
-      "quarterfinals": [],
+      "quarterfinals": [
+        {
+          "match": 97,
+          "team1": "Morocco",
+          "team2": "France",
+          "winner": null
+        }
+      ],
       "semifinals": [],
       "thirdPlace": [],
       "final": []
