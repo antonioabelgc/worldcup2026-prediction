@@ -202,7 +202,9 @@ const RESULTS = {
     ],
     "round16": [
       "Morocco",
-      "France"
+      "France",
+      "Norway",
+      "England"
     ],
     "quarterfinals": [],
     "semifinals": [],
@@ -328,13 +330,13 @@ const RESULTS = {
           "match": 91,
           "team1": "Brazil",
           "team2": "Norway",
-          "winner": null
+          "winner": "Norway"
         },
         {
           "match": 92,
           "team1": "Mexico",
           "team2": "England",
-          "winner": null
+          "winner": "England"
         },
         {
           "match": 93,
@@ -366,6 +368,12 @@ const RESULTS = {
           "match": 97,
           "team1": "Morocco",
           "team2": "France",
+          "winner": null
+        },
+        {
+          "match": 99,
+          "team1": "Norway",
+          "team2": "England",
           "winner": null
         }
       ],
