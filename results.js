@@ -204,7 +204,9 @@ const RESULTS = {
       "Morocco",
       "France",
       "Norway",
-      "England"
+      "England",
+      "Spain",
+      "Belgium"
     ],
     "quarterfinals": [],
     "semifinals": [],
@@ -342,13 +344,13 @@ const RESULTS = {
           "match": 93,
           "team1": "Portugal",
           "team2": "Spain",
-          "winner": null
+          "winner": "Spain"
         },
         {
           "match": 94,
           "team1": "USA",
           "team2": "Belgium",
-          "winner": null
+          "winner": "Belgium"
         },
         {
           "match": 95,
@@ -368,6 +370,12 @@ const RESULTS = {
           "match": 97,
           "team1": "Morocco",
           "team2": "France",
+          "winner": null
+        },
+        {
+          "match": 98,
+          "team1": "Spain",
+          "team2": "Belgium",
           "winner": null
         },
         {
