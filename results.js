@@ -217,12 +217,14 @@ const RESULTS = {
       "Argentina"
     ],
     "semifinals": [
-      "Spain"
+      "Spain",
+      "Argentina"
     ],
     "champion": "",
     "runnerUp": "",
     "finalists": [
-      "Spain"
+      "Spain",
+      "Argentina"
     ],
     "thirdPlaceWinner": "",
     "final": "",
@@ -413,14 +415,14 @@ const RESULTS = {
           "match": 102,
           "team1": "England",
           "team2": "Argentina",
-          "winner": null
+          "winner": "Argentina"
         }
       ],
       "thirdPlace": [
         {
           "match": 103,
           "team1": "France",
-          "team2": null,
+          "team2": "England",
           "winner": null
         }
       ],
@@ -428,7 +430,7 @@ const RESULTS = {
         {
           "match": 104,
           "team1": "Spain",
-          "team2": null,
+          "team2": "Argentina",
           "winner": null
         }
       ]
@@ -441,7 +443,8 @@ const RESULTS = {
     "Argentina"
   ],
   "finalists": [
-    "Spain"
+    "Spain",
+    "Argentina"
   ],
   "champion": "",
   "runnerUp": "",
